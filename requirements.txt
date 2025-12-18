@@ -1,0 +1,21 @@
+# Core Dependencies
+pandas==2.3.3
+numpy==2.3.5
+matplotlib==3.10.8
+seaborn==0.13.2
+scipy
+
+# Machine Learning & Reinforcement Learning
+tensorflow==2.20.0
+stable-baselines3==2.7.1
+gym==0.26.2
+gym-anytrading==2.0.0
+
+# Jupyter Notebook (optional)
+jupyter
+notebook
+ipykernel
+
+# Additional utilities
+tqdm
+pillow
